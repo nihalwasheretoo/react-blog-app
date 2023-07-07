@@ -48,17 +48,3 @@ Creates a production build.
 ### `npm start`
 
 Serves a production build.
-
-## A glimpse of the backend
-
-### `blog query`
-
-![alt text](https://raw.githubusercontent.com/nihal9ns/todo-app/master/query.png)
-
-### `user schema`
-
-![alt text](https://raw.githubusercontent.com/nihal9ns/todo-app/master/user_schema.png)
-
-### `blog schema`
-
-![alt text](https://raw.githubusercontent.com/nihal9ns/todo-app/master/todo_schema.png)
